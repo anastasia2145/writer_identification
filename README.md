@@ -47,3 +47,13 @@ Embedding-и для тренеровочного множества **data/tripl
 Финальные веса в папке **contrastive/final_weigths_alpha_1** 
 
 Embedding-и для тренеровочного множества **data/contrastive_embeddings_1.pkl** 
+
+
+### Requirements:
+
+python 3
+
+keras
+
+tensorflow 1.13 (2.0 для contrastive)
+
